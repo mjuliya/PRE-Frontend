@@ -1,0 +1,33 @@
+body{
+    margin: 100px
+}
+.one{
+   width: 300px;
+   height: 300px;
+   position: absolute;
+   background-color: rgb(27, 169, 194);
+}
+.two{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    float: left;
+    top: 200px;
+    left: 200px;
+    background-color: rgb(224, 62, 12);
+}
+
+.three{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 300px;
+    left:300px;
+    background-color: rgb(8, 114, 8);
+}
+
+
+a{
+    position: fixed;
+    bottom: 30px;
+}
